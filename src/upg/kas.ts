@@ -7,7 +7,7 @@ export class Kas {
     switch (kas.length) {
       // device before WM1/NW-A30 use DES
       case 16: {
-        throw new Error("CRY ABOUT IT")
+        throw new Error("V1 encryption not supported")
       }
 
       // device after WM1/NW-A30 use AES
