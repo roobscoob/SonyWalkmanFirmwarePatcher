@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<SWUpdate>
+
+  <Package>
+    <Category>Digital Media Player</Category>
+    <Product>NW-ZX300Series</Product>
+  </Package>
+
+  <Common>
+    <Version>2.02</Version>
+    <SWPackageWritePathName>\NW_WM_FW.UPG</SWPackageWritePathName>
+    <Timer>10:00</Timer>
+    <TimeOut>5:00</TimeOut>
+    <DisclaimerBox>true</DisclaimerBox>
+  </Common>
+
+  <Devices>
+    <Device>
+      <DevicePropertyProductInfo>NW-ZX300</DevicePropertyProductInfo>
+      <SubIdentification>00000000</SubIdentification>
+    </Device>
+
+    <Device>
+      <DevicePropertyProductInfo>NW-ZX300A</DevicePropertyProductInfo>
+      <SubIdentification>00000000</SubIdentification>
+    </Device>
+
+    <Device>
+      <DevicePropertyProductInfo>NW-ZX300</DevicePropertyProductInfo>
+      <SubIdentification>00010000</SubIdentification>
+    </Device>
+
+    <Device>
+      <DevicePropertyProductInfo>NW-ZX300A</DevicePropertyProductInfo>
+      <SubIdentification>00010000</SubIdentification>
+    </Device>
+
+    <Device>
+      <DevicePropertyProductInfo>NW-ZX300</DevicePropertyProductInfo>
+      <SubIdentification>00020000</SubIdentification>
+    </Device>
+
+    <Device>
+      <DevicePropertyProductInfo>NW-ZX300A</DevicePropertyProductInfo>
+      <SubIdentification>00020000</SubIdentification>
+    </Device>
+
+    <Device>
+      <DevicePropertyProductInfo>NW-ZX300</DevicePropertyProductInfo>
+      <SubIdentification>00030000</SubIdentification>
+    </Device>
+
+    <Device>
+      <DevicePropertyProductInfo>NW-ZX300A</DevicePropertyProductInfo>
+      <SubIdentification>00030000</SubIdentification>
+    </Device>
+  </Devices>
+
+</SWUpdate>
